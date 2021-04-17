@@ -1,0 +1,19 @@
+{
+  "name": "simplesampleproject",
+  "version": "1.0.0",
+  "description": "This is a sample project made for the purpose of demonstrating git, a version control system, and GitHub, an online git service provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GIT-GitHub-Club/simpleSampleProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GIT-GitHub-Club/simpleSampleProject/issues"
+  },
+  "homepage": "https://github.com/GIT-GitHub-Club/simpleSampleProject#readme"
+}
